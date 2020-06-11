@@ -60,6 +60,6 @@
 			socket = null;
 		})
 		socket.connect(args.port || 27015, args.ip);
-	}).listen(8080);
+	}).listen(80);
 	
 })();
