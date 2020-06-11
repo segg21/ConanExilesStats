@@ -30,7 +30,8 @@
 			}, 10000);
 		})
 		socket.on('error', function(){
-			console.log('error');
+			res.writeHead(400);
+			res.end();
 		})
 		socket.on('listening', function(){})
 		socket.on('message', function(e){
