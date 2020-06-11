@@ -1,0 +1,19 @@
+{
+  "name": "conanexilesstats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LegitSoulja/ConanExilesStats.git"
+  },
+  "author": "Segfault",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LegitSoulja/ConanExilesStats/issues"
+  },
+  "homepage": "https://github.com/LegitSoulja/ConanExilesStats#readme"
+}
